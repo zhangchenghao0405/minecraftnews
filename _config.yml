@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: minecraft_new
-description: minecraftnew
+name: minecraft_news
+description: minecraftnews
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -55,7 +55,7 @@ footer-links:
   email: #wanghouran001@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: zhangchenghao0405/minecraft_new #https://github.com/<>
+  github: zhangchenghao0405/minecraft_news #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
