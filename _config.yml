@@ -87,7 +87,7 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: zhangchenghao0405/minecraft_news
+  repo: zhangchenghao0405/minecraftnews
   issue-term: "pathname"
 #
 # !! 以下所有设置都不需要更改 !!
