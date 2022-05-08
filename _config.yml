@@ -87,8 +87,8 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
-
+  repo: zhangchenghao0405/minecraft_news
+  issue-term: "pathname"
 #
 # !! 以下所有设置都不需要更改 !!
 #
